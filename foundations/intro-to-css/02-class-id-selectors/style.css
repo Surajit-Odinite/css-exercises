@@ -1,0 +1,31 @@
+.num1 {
+    color: black;
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+#num2 {
+    color: blue;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.num3 {
+    color: black;
+    font-weight: bold;
+    background-color: lightpink;
+    font-size: larger;
+}
+
+#num4 {
+    color: black;
+    font-weight: bold;
+    background-color: green;
+    font-size: x-large;
+}
+
+.num5 {
+    color: black;
+    font-weight: bold;
+    background-color: lightpink;
+}
