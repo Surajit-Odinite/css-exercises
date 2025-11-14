@@ -1,6 +1,7 @@
 .bigheading {
     color: white;
     background-color: red;
-    font-size: xx-large;
+    font-size: 32px;
+    font-weight: bold;
     text-align: center;
 }
